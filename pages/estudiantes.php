@@ -296,7 +296,7 @@ require_once("conexion.php");
 								<i class="fa fa-th-list fa-fw"></i> Estudiantes</a>
                         </li>
                         <li>
-                            <a href="docentes.html">
+                            <a href="docentes.php">
 								<i class="fa fa-group fa-fw"></i> Docentes</a>
                         </li>
                         <li>
